@@ -6,6 +6,6 @@ I'm interested in ML systems engineering — model routing, agents, and local AI
 
 ---
 
-archive — [rangan39.sh](https://rangan39.sh)
-work — [linkedin.com/in/gaurav-ranganath](https://www.linkedin.com/in/gaurav-ranganath/)
+archive — [rangan39.sh](https://rangan39.sh)  
+work — [linkedin.com/in/gaurav-ranganath](https://www.linkedin.com/in/gaurav-ranganath/)  
 contact — rangan39@outlook.com
