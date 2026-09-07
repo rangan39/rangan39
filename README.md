@@ -1,11 +1,20 @@
-# rangan39
+<div align="center">
 
-I work at Radical Ventures, where I build AI products for the firm.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=F5A623&center=true&vCenter=true&width=460&lines=~%2Fr39;radical+ventures;model+routing+%C2%B7+agents+%C2%B7+local+ai;routerbench+co-author" alt="Typing SVG" />
 
-I'm interested in ML systems engineering, particularly model routing, agents, and local AI, and I co-authored RouterBench, an open benchmark for multi-model routing.
+</div>
 
----
+```
+┌─ rangan39 ──────────────────────────────────┐
+│                                             │
+│  building AI products at Radical Ventures   │
+│                                             │
+│  ml systems engineering                     │
+│  model routing · agents · local ai          │
+│                                             │
+│  co-author, RouterBench                     │
+│  an open benchmark for multi-model routing  │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-archive: [rangan39.sh](https://rangan39.sh)  
-work: [linkedin.com/in/gaurav-ranganath](https://www.linkedin.com/in/gaurav-ranganath/)  
-contact: rangan39@outlook.com
