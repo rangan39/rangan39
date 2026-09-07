@@ -1,20 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=F5A623&center=true&vCenter=true&width=460&lines=~%2Fr39;radical+ventures;model+routing+%C2%B7+agents+%C2%B7+local+ai;routerbench+co-author" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/rangan39/rangan39/main/assets/terminal-top.svg" alt="terminal" width="640" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=900&color=FFB000&background=0A0A0A&center=false&vCenter=true&width=640&height=44&lines=%24+whoami;gaurav+ranganath;%24+pwd;~%2Fradical-ventures" alt="typing" width="640" />
 
 </div>
-
-```
-┌─ rangan39 ──────────────────────────────────┐
-│                                             │
-│  building AI products at Radical Ventures   │
-│                                             │
-│  ml systems engineering                     │
-│  model routing · agents · local ai          │
-│                                             │
-│  co-author, RouterBench                     │
-│  an open benchmark for multi-model routing  │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
